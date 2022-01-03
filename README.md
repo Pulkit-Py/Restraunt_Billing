@@ -31,19 +31,3 @@
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Pulkit-Py/Restraunt_Billing.svg?style=for-the-badge
-[contributors-url]: https://github.com/Pulkit-Py/Restraunt_Billing/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Pulkit-Py/Restraunt_Billing.svg?style=for-the-badge
-[forks-url]: https://github.com/Pulkit-Py/Restraunt_Billing/network/members
-[stars-shield]: https://img.shields.io/github/stars/Pulkit-Py/Restraunt_Billing.svg?style=for-the-badge
-[stars-url]: hhttps://github.com/Pulkit-Py/Restraunt_Billing/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Pulkit-Py/Restraunt_Billing.svg?style=for-the-badge
-[issues-url]: https://github.com/Pulkit-Py/Restraunt_Billing/issues
-[license-shield]: https://img.shields.io/github/license/Pulkit-Py/Restraunt_Billing.svg?style=for-the-badge
-[license-url]: https://github.com/Pulkit-Py/repo_name/blob/master/LICENSE.txt
-[Youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=Youtube&colorB=red
-[Youtube-url]: https://www.youtube.com/pulkitpy
-
